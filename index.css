@@ -1,0 +1,26 @@
+body{
+  background-color: #E5FDD1;
+  text-align: center;
+}
+img
+{
+  
+  height: 15rem;
+  margin: 1rem 0rem  1rem;
+  border-radius: 15px;
+}
+h3, p
+{
+  padding: 0rem 1rem;
+}
+/**********************style using class ******************************/
+.qr-card
+{
+  background-color: white;
+
+  height: 28rem;
+  width: 17rem;
+  border-radius:15px ;
+  margin: 200px auto;
+
+}
